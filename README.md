@@ -25,7 +25,7 @@
 
 ### Editor
 
-`vi`
+`vim`
 
 `atom`:
 * Remote-FTP
@@ -51,6 +51,8 @@
 `Any.do`
 
 ### OS X
+
+`Brew`
 
 `Dash`
 
