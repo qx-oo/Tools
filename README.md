@@ -73,3 +73,7 @@
 ### Command Record
 
 `ttyrecord`
+
+### Zip passwd Crack
+
+`fcrackzip`
